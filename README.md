@@ -60,9 +60,9 @@ Then visit http://localhost:5000 in your browser.
 
 ### 🧠 Powered By
 
-[Ollama](https://ollama.com/)
-Phi-4 Mini Instruct
-Flask
+- [Ollama](https://ollama.com/)
+- Phi-4 Mini Instruct
+- Flask
 
 ### 📄 License
 
